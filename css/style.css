@@ -1,0 +1,8 @@
+*{
+    margin: 0;
+}
+
+.menu{
+    border: red 1em solid;
+    background-color: blue;
+}
