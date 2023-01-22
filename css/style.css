@@ -1,8 +1,22 @@
 *{
     margin: 0;
+    padding: 0;
 }
 
 .menu{
-    border: red 1em solid;
-    background-color: blue;
+    width: 900px;
+    border: red 0.1em solid;
+    margin: 0 auto;
+    text-align: center;
+    
 }
+
+a{
+    color: green;
+    text-decoration: none;
+}
+
+.menu a{
+    margin: 0 30px;
+
+    }
